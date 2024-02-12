@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krinjal Paudel</h1>
 <div align="center">
     <p>
-        <img src="Krinjal.gif" alt="Descriptive Text for the GIF" height="400"/>
+        <img src="Krinjal.gif" alt="Descriptive Text for the GIF" height="400" width="100%"/>
     </p>
 </div>
 <h3 align="center">A passionate developer</h3>
