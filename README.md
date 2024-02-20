@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, It's me ↓</h1>
+<h1 align="center">Hi 👋, It's me ↓ </h1>
 <div align="center">
     <p>
         <img src="Krinjal.gif" alt="Descriptive Text for the GIF" height="600" width="100%"/>
